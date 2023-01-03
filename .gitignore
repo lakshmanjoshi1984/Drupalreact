@@ -14,7 +14,8 @@ web/modules/contrib
 web/themes/contrib
 
 # Ignore custom theme build artifacts
-web/themes/customi/react_example_theme/*/node_modules
-web/themes/custom/react_example_theme/js/dist
-web/themes/custom/react_example_theme/js/dist_dev
+web/themes/react_example_theme/node_modules
+web/themes/react_example_theme/js/dist
+web/themes/react_example_theme/js/dist_dev
+
 
